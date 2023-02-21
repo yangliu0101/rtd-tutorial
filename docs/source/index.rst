@@ -19,6 +19,10 @@ Contents
 --------
 
 .. toctree::
-
-   usage
+   about/index
+   installation/index
+   SAS basics/index
+   usage/index
+   pics/index
    api
+   data and models

@@ -1,4 +1,4 @@
-Usage
+data and models
 =====
 
 .. _installation:
